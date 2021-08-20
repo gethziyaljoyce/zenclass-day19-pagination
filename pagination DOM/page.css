@@ -1,6 +1,6 @@
 .buttonBar{
-    max-width: 58rem;
-    max-height: 6rem;
+    width:100%;
+   
     border-color: black;
     background:darkblue;
 }
