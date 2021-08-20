@@ -1,0 +1,12 @@
+.buttonBar{
+    max-width: 58rem;
+    max-height: 6rem;
+    border-color: black;
+    background:darkblue;
+}
+button{
+    background: cornflowerblue;
+    height: 5rem;
+    min-width:5rem ;
+    font-size: large;
+}
