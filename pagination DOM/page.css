@@ -1,12 +1,7 @@
-.buttonBar{
-    width:100%;
-   
-    border-color: black;
-    background:darkblue;
-}
 button{
     background: cornflowerblue;
-    height: 5rem;
-    min-width:5rem ;
+    height: 2rem;
+    min-width:2rem ;
     font-size: large;
+    border-radius: 5px;
 }
